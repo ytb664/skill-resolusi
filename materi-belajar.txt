@@ -2,7 +2,7 @@ MATERI BELAJAR WEB-DEVELOPMENT
 
 - Front-End
   * Javascript
-    ^ Learn Fetch API / Ajax (XHR)
+    ^ Syntax & Basic Constructs
     ^ Learn DOM Manipulation
 
 - Fundamental
