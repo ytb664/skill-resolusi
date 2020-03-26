@@ -1,4 +1,6 @@
 SKILL RESOLUSI
 - Konsisten meningkatkan skill web-development setiap hari
 - Mempelajari Javascript
+- Memaksimalkan pengetahuan fundamental web-development
 - Memaksimalkan skill front-end web-development
+- Mulai mempelajari back-end web-development
