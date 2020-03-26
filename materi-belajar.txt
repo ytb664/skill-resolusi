@@ -6,7 +6,6 @@ MATERI BELAJAR WEB-DEVELOPMENT
     ^ Learn DOM Manipulation
 
 - Fundamental
-  * GIT & GITHUB
   * Basic Terminal Usage
   * Data Structures 
   * Alghoritms
