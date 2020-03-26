@@ -2,9 +2,10 @@ MATERI BELAJAR WEB-DEVELOPMENT
 
 - Front-End
   * Javascript
+    ^ Learn Fetch API / Ajax (XHR)
+    ^ Learn DOM Manipulation
 
 - Fundamental
-  * GIT & GITHUB
   * Basic Terminal Usage
   * Data Structures 
   * Alghoritms
@@ -17,3 +18,4 @@ MATERI BELAJAR WEB-DEVELOPMENT
   * Charachter Encodings
 
 - Back-End
+  * OS & General Knowledge
