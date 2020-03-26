@@ -3,6 +3,7 @@ MATERI BELAJAR WEB-DEVELOPMENT
 - Front-End
   * Javascript
     ^ Syntax & Basic Constructs
+    ^ Learn DOM Manipulation
 
 - Fundamental
   * GIT & GITHUB
