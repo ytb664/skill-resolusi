@@ -1,0 +1,14 @@
+MATERI BELAJAR WEB-DEVELOPMENT
+
+- GIT & GITHUB
+- Javascript
+- Basic Terminal Usage
+- Data Structures 
+- Alghoritms
+- SOLID, KISS, YAGNI 
+- Design Patterns
+- Lisences
+- Semantic Versioning
+- SSH
+- HTTP/HTTPS and APIs
+- Charachter Encodings
